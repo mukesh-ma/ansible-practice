@@ -6,7 +6,6 @@ This repository contains various Ansible playbooks, roles, and configuration exa
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Directory Structure](#directory-structure)
 * [Contributing](#contributing)
 * [License](#license)
 
